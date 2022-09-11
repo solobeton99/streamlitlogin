@@ -1,1 +1,2 @@
 streamlit
+streamlit-login-auth-ui
